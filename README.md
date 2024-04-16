@@ -1,6 +1,8 @@
 # Kubernetes Workshop
 This is a platform workshop that covers the basics of Kubernetes, designed by Nathan Eng. It uses the project from: https://www.youtube.com/watch?v=s_o8dwzRlu4. If you are unfamiliar with Kubernetes, I highly recommend watching this video first, it will be all you need to present on this topic.
 
+**Platform lead: you can view some more info on how to present this workshop [here.](https://drive.google.com/drive/folders/1g5rLkefk_uBrqCWMmnSa5JB9Th94NoMH?usp=sharing)**
+
 ## Installation
 You will need to install several technologies like Docker Desktop and minikube - this is outlined in `Kubernetes Notes.pdf`.
 
